@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "ecm_extrudecurve"
+version = "1.0.0"
+name = "Extrude Curve (ECM)"
+tagline = "Non-destructive Curve Extrusion through Geometry Nodes modifier"
+maintainer = "SplineDynamics"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://www.splinedynamics.com/ecm-extrude-curve-modifier-blender-addon/"
+tags = ["Geometry Nodes", "Add Curve", "Modeling"]
